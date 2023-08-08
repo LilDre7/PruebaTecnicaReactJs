@@ -14,6 +14,10 @@ En este proyecto, he creado una aplicación que demuestra mis habilidades en el 
 
 ## Capturas de Pantalla
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> dd329421eff7801e36facd25650d7bdaaeaa3e38
 ## Instalación
 
 1. Clona este repositorio: `git clone https://github.com/TuUsuario/tu-proyecto.git`
