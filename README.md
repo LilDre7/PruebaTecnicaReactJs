@@ -1,3 +1,42 @@
-<div align="center">
+# Simulación de Prueba Técnica con ReactJS
 
-<img alt="Curso de React js desde cero y con proyectos" src="https://user-images.githubusercontent.com/1561955/212888793-fd719e58-b0c2-4d03-9c55-38e3e79ebc17.png" width="500" />
+¡Bienvenidos a mi proyecto de simulación de prueba técnica con ReactJS! En este proyecto, he desarrollado una aplicación utilizando ReactJS, haciendo uso de hooks y componentes reutilizables para resolver los desafíos propuestos en la prueba técnica.
+
+## Descripción
+
+En este proyecto, he creado una aplicación que demuestra mis habilidades en el uso de ReactJS y sus conceptos clave. He abordado los problemas planteados en la prueba técnica y he utilizado componentes reutilizables para mantener un código limpio y mantenible.
+
+## Características
+
+- Uso de ReactJS para la construcción de la interfaz de usuario.
+- Implementación de diferentes hooks de React para la gestión del estado y el ciclo de vida.
+- Creación de componentes reutilizables para mejorar la modularidad y la legibilidad del código.
+
+## Capturas de Pantalla
+
+_(Aquí puedes agregar capturas de pantalla de tu aplicación en acción. Por ejemplo, imágenes de las diferentes pantallas o características destacadas de tu proyecto)._
+
+## Instalación
+
+1. Clona este repositorio: `git clone https://github.com/TuUsuario/tu-proyecto.git`
+2. Ingresa al directorio del proyecto: `cd tu-proyecto`
+3. Instala las dependencias: `npm install`
+
+## Uso
+
+1. Ejecuta la aplicación: `npm start`
+2. Abre tu navegador y ve a `http://localhost:5173` para ver la aplicación en acción.
+
+## Contribución
+
+¡Las contribuciones son bienvenidas! Si encuentras algún problema o tienes sugerencias para mejorar este proyecto, por favor crea un issue o envía una pull request.
+
+## Autor
+
+Álvaro Aburto
+
+- GitHub: [TuUsuario](https://github.com/LilDre7)
+
+## Licencia
+
+Este proyecto está bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
