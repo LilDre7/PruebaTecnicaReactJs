@@ -14,8 +14,6 @@ En este proyecto, he creado una aplicación que demuestra mis habilidades en el 
 
 ## Capturas de Pantalla
 
-_(Aquí puedes agregar capturas de pantalla de tu aplicación en acción. Por ejemplo, imágenes de las diferentes pantallas o características destacadas de tu proyecto)._
-
 ## Instalación
 
 1. Clona este repositorio: `git clone https://github.com/TuUsuario/tu-proyecto.git`
@@ -35,7 +33,7 @@ _(Aquí puedes agregar capturas de pantalla de tu aplicación en acción. Por ej
 
 Álvaro Aburto
 
-- GitHub: [TuUsuario](https://github.com/LilDre7)
+- GitHub: [LilDre](https://github.com/LilDre7)
 
 ## Licencia
 
