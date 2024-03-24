@@ -1,4 +1,4 @@
-# Simulación de Prueba Técnica con ReactJS addaadsasa
+# Simulación de Prueba Técnica con ReactJS addaad
 
 ¡Bienvenidos a mi proyecto de simulación de prueba técnica con ReactJS! En este proyecto, he desarrollado una aplicación utilizando ReactJS, haciendo uso de hooks y componentes reutilizables para resolver los desafíos propuestos en la prueba técnica.
 
